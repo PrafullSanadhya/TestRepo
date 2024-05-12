@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite Tests">
+  <test name="Test" thread-count="5" >
+    <classes>
+      <class name="TESTREPO.SearchTest.java" />
+    </classes>
+  </test>
+</suite>
